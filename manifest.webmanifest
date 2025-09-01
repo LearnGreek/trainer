@@ -1,9 +1,9 @@
 {
   "name": "Greek Trainer",
-  "short_name": "GreekApp", 
+  "short_name": "Greek Trainer", 
   "description": "Greek language learning trainer",
-  "start_url": "/",
-  "scope": "/",
+  "start_url": "/trainer/",
+  "scope": "/trainer/",
   "display": "standalone",
   "orientation": "portrait-primary",
   "theme_color": "#000000",
